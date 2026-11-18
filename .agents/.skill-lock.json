@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "skills": {
+    "coding-guidelines": {
+      "name": "coding-guidelines",
+      "source": "local",
+      "contentHash": "28a414c715d3c41aae28a25e2f109813ec3f246f76b5567c1e7d6a128cd289ff",
+      "installedAt": "2026-11-18T05:06:27.836Z",
+      "updatedAt": "2026-11-18T05:06:27.836Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "not-your-babysitter": {
+      "name": "not-your-babysitter",
+      "source": "local",
+      "contentHash": "bba71735a9fb5ac0154a38d7a8c817b16f2a61ed1a8e1d04ce46673c775effab",
+      "installedAt": "2026-11-18T05:06:32.223Z",
+      "updatedAt": "2026-11-18T05:06:32.223Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "docs-writer": {
+      "name": "docs-writer",
+      "source": "local",
+      "contentHash": "c49827c59d2e27d313731dfd36314cfde0e8dbf15be0e8f813d2f8b751546b0c",
+      "installedAt": "2026-11-18T05:06:37.117Z",
+      "updatedAt": "2026-11-18T05:06:37.117Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "frontend-design": {
+      "name": "frontend-design",
+      "source": "local",
+      "contentHash": "b20162c8d6bcdd9137c4afceaeb4f9dce2c1ba3ccb57a96a3228b8cb33104ec4",
+      "installedAt": "2026-11-18T05:06:42.109Z",
+      "updatedAt": "2026-11-18T05:06:42.109Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "web-design-guidelines": {
+      "name": "web-design-guidelines",
+      "source": "local",
+      "contentHash": "213a23fff251b12ddfec648bda148bf10704ef6617e162eb9329cc83963dd138",
+      "installedAt": "2026-11-18T05:06:47.111Z",
+      "updatedAt": "2026-11-18T05:06:47.111Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "create-adr": {
+      "name": "create-adr",
+      "source": "local",
+      "contentHash": "47ec663c849e8c1620c6f33a7be0055acdcf838c27ab7c16f44260244b80195a",
+      "installedAt": "2026-11-18T05:06:51.996Z",
+      "updatedAt": "2026-11-18T05:06:51.996Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    },
+    "technical-design-doc-creator": {
+      "name": "technical-design-doc-creator",
+      "source": "local",
+      "contentHash": "d05974df076f695f96b4e4c263ad19f2aaffe8ee6248c1b07a634dd9ed0ea51e",
+      "installedAt": "2026-11-18T05:06:56.974Z",
+      "updatedAt": "2026-11-18T05:06:56.974Z",
+      "agents": [
+        "claude-code"
+      ],
+      "method": "copy",
+      "global": false
+    }
+  }
+}
